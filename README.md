@@ -38,9 +38,6 @@ Basic CV techniques: Canny, HoughLines, Contours, Bounding Boxes
 
 📱 AR overlay for mobile or smart glasses use cases
 
-📸 Sample Output
-(Add a screenshot or GIF here showing the shelf with color-zoned overlays)
-
 🏃‍♂️ How to Run
 Clone the repo
 
